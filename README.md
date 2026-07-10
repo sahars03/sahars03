@@ -5,10 +5,12 @@ I also have a BSc in Computer Science, so some of my projects are also coursewor
 
 ## Project spotlight
 
-- [TUI Diary](https://github.com/sahars03/tui-diary) — a terminal diary app, built with Go and PostgreSQL
-- [JobTracker](https://github.com/sahars03/job-tracker) — a full-stack web application for organising job applications, built with TypeScript and PostgreSQL
-- [Dissertation](https://github.com/sahars03/third-year-project) — a full-stack mobile application for visually impaired users to take pictures and ask questions about them, built with Python and JavaScript (since this counts as university coursework, this is a private repository)
+- [TUI Diary](https://github.com/sahars03/tui-diary), a terminal user interface diary app, built with Go and PostgreSQL
+- [JobTracker](https://github.com/sahars03/job-tracker), a full-stack web application for organising job applications, built with TypeScript and PostgreSQL
+- [Dissertation](https://github.com/sahars03/third-year-project), a cross-platform mobile application for visually impaired users to take pictures and ask questions about them, built with Python and JavaScript (since this was university coursework, this is a private repository)
 
 ## Technologies
 
-- Go, PostgreSQL, JavaScript, Python, ...
+- Proficient in Python and JavaScript/TypeScript
+- Experienced in Go, Haskell, Java, C, C++ and Swift
+- PostgreSQL for databases
